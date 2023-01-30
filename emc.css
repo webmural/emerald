@@ -1,0 +1,41 @@
+@media (color) {
+  ::selection {
+    background: #ee1;
+    color: indigo;
+  }
+
+  :root {
+    background-color: #318;
+    color: turquoise;
+  }
+
+  :any-link {
+    color: mediumturquoise;
+  }
+
+  :focus {
+    background-color: turquoise;
+    color: indigo;
+  }
+
+  em {
+    text-shadow:
+      1vw -1vh 0 aquamarine,
+      2vw -2vh 1em cyan,
+      3vw -3vh 1em aqua;
+  }
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    background-color: turquoise;
+    color: indigo;
+  }
+}
+
+@media screen {
+  :focus {
+    outline: thick double;
+    text-decoration-style: double;
+  }
+}
