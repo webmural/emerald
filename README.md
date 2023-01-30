@@ -1,6 +1,11 @@
-## [`imagine`](index.html)
+## [*em*erald mural](https://webmural.com/emerald)
 
-## [graf](../../generate) [imagine](https://webmural.com/imagine)
+## [graf yo vox](../../generate)
+
+* [electromagnetic cascade](emc.css)
+* [responsive divine](emu.css)
+
+## [*on*line](https://webmural.com)
 
 * [urenuf](https://webmural.com/html)
-* [cascade](https://webmural.com/css)
+* [imagine](https://webmural.com/imagine)
